@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Property Placeholder</title>
+  <desc id="desc">Stylized premium property image placeholder for listings.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="55%" stop-color="#1e1e1e"/>
+      <stop offset="100%" stop-color="#2c2c2c"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9f812a"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#f1d47a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1280" cy="180" r="260" fill="#d4af37" opacity="0.14"/>
+  <circle cx="260" cy="840" r="320" fill="#d4af37" opacity="0.08"/>
+  <rect x="170" y="220" width="1260" height="580" rx="36" fill="#ffffff" opacity="0.08" stroke="#d4af37" stroke-opacity="0.35"/>
+  <g fill="none" stroke="#d4af37" stroke-width="14" stroke-opacity="0.65">
+    <path d="M280 700 L620 460 L900 580 L1220 360"/>
+    <path d="M280 720 L620 480 L900 600 L1220 380" stroke-opacity="0.35"/>
+  </g>
+  <g fill="#ffffff" opacity="0.9">
+    <rect x="300" y="300" width="160" height="100" rx="12"/>
+    <rect x="500" y="300" width="160" height="100" rx="12"/>
+    <rect x="700" y="300" width="160" height="100" rx="12"/>
+    <rect x="900" y="300" width="160" height="100" rx="12"/>
+    <rect x="1100" y="300" width="160" height="100" rx="12"/>
+  </g>
+  <text x="50%" y="56%" text-anchor="middle" fill="#ffffff" opacity="0.95" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">
+    iPropertiesAfrica
+  </text>
+  <text x="50%" y="63%" text-anchor="middle" fill="url(#gold)" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">
+    Premium Listing Preview
+  </text>
+</svg>

@@ -1,0 +1,9 @@
+iPropertiesAfrica favicon notes
+
+Current setup:
+- Primary favicon: `logo.jpg` (company logo)
+- Fallback shortcut icon: `logo.jpg` (company logo)
+- Apple touch icon: `logo.jpg`
+- Theme color: `#000000`
+
+This setup is active and production-ready for modern browsers.

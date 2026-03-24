@@ -1,0 +1,36 @@
+{
+  "name": "ipropertiesafrica",
+  "version": "1.0.0",
+  "description": "Modern real estate website for iPropertiesAfrica",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "live-server --port=3000",
+    "build": "echo 'Build process goes here'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "real-estate",
+    "africa",
+    "property",
+    "website",
+    "responsive"
+  ],
+  "author": "iPropertiesAfrica",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KamauGeorge14/iProperties-Africa-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KamauGeorge14/iProperties-Africa-website/issues"
+  },
+  "homepage": "https://www.ipropertiesafrica.com"
+}
